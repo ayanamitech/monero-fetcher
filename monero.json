@@ -1,0 +1,2970 @@
+[
+  {
+    "isTor": true,
+    "url": "http://ozeavjybjbxbvmfcpxzjcn4zklbgohjwwndzenjt44pypvx6jisy74id.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632403,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://dewittewowwnvmn6ooa6c5ai77kh2zps4ex2a5gcxi5bt5odma4oz7id.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://5nvd6jbefgto3u74nzzdkcsbqgxyzrkk7bz5qupsdqg4gbuj5valiaqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node-eu.cakewallet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://i4jsfwmw22yjzzmzkoc7aahiaqlyhnykn5wxel43u3o5ibz2k4275jqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://sfprpc5klzs5vyitq2mrooicgk2wcs5ho2nm3niqduvzn5o6ylaslaqd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.htp.re:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://65.52.21.30:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://libertytmtitynvmnto2k42liys5fenb3wabaozmmmksyrc7jvgmjiqd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T15:55:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://182.180.109.121:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://209.203.84.201:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://xmr.lukas.services:443",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://100.14.93.124:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://bonk.xmr.coercive.net:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://de.poiuty.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://uwillrunanodesoon.moneroworld.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://gf4.pw:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-de-1.boldsuck.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://cch-investments.duckdns.org:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.xmr.ru:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://xmrnode1.ditatompel.com:443",
+    "health": true,
+    "isWebCompatible": true,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://dtrnd4in2igrtfx2c45ghf2drns3doddmcsfy6b5gjw5iinukd33slqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://j2kn7wcgevghettxwajt6rlqvbliamrx2bcfgsg7jvohmfxtiqxiacyd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.dyni.net:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node.cakewallet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://66.85.146.141:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://cbfrpgbmlzfuj2vroprrnidjo4x7xeuhwrar4gvw2ivsvdzfmthmqbid.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632398,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://165.22.2.129:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://134.209.31.128:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://37.120.189.37:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node-uk.cakewallet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://pcchin.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://xmr.unknown.place",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:01:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.fyi:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://65.108.65.132:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://149.28.86.31:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrbandwagon.hopto.org:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://moneroxmrxw44lku6qniyarpwgznpcwml4drq7vb24ppatlcg4kmxpqd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T08:00:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.hackliberty.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://nodes.diowo.moe:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://125.168.80.60:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://freedom655xbh6y22yi7u4p74ykqz3jr4kbxb6ohrohp5mi6fbm433yd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.getmonero.us:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://greystroke.synology.me:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://bfcrefwwcen4o24o3t7dbwfaxmfamwc2hrgstvo5hnyvojudyn6rvoqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://htbtw474hngeyfs34v7jb4oxoihp6aomptjwqrueuqv5ux3sycudwxyd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632407,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://majnrs7gc37czxhk4blpkwklhognpgcdknaorrvzlh7iyx67lahernid.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node4.koag.pl:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://178.17.170.141:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://6dsdenp6vjkvqzy4wzsnzn6wixkdzihx3khiumyzieauxuxslmcaeiad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632396,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://135.181.86.201:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://68.10.152.84:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://wolf.woodchuckhunters.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://158.174.82.230:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://e2vh6pit5iamhy3qwbh6zd4wvw2cyhnw6fpfxo2oqi24dxsd3jiwiayd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://89.203.249.160:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.techthis.com.au:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.sphinxlogic.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://anstee.dev:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://2pyni7ib45hodlrldi3z6amegppulofljs4lmxoryxddla5svv5iecyd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://ogahfd3y25lv7wmb2ubnnrxt5qctakjrhg4b35ry3c3kiqnodkphrbyd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://95.111.227.54:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.monero.net:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://xmr.unknown.place:443",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:11:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://7ftphnbb6raamrq3vwlm4fhnj3qzppomlt234enq25joajlpsgtgu7ad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-26T13:53:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xmrnodesarnt4w35aqmu66aart3o324yw6qbnv6pglpof6uqaydzk5id.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.servercabin.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://alex.green:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://m4pfa6v3snnokjr5vvdkq5g4c6kuosn6gcobekysasfwwegdrwwn7iqd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://ip4zpbps7unk6xhlanqtw24f75akfbl3upeckfjqjks7ftfnk4i73oid.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632398,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://158.174.82.230:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://104.129.171.121:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://monerujods7mbghwe6cobdr6ujih6c22zu5rl7zshmizz2udf7v7fsad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://monerob2hm5lns5m4maiv3dauroadpofdrpftp5wd2cfqt332ydyeyid.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://195.123.239.185:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://72.200.73.151:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.zgabur.sk:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 3,
+      "unhealthy": 3
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://bux2fqsk56yn4vsnqcztto3rggcwfwnh457dj2i3za4ne3ktmql2ngqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632407,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://56wl7y2ebhamkkiza4b7il4mrzwtyvpdym7bm2bkg3jrei2je646k3qd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://opennode.xmr-tw.org:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://7d45lp4tveuxgj3xrnvrnq33bag5vy4tk574c6brsslyjvl7pvu7g5id.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://support.ablative.hosting:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://144.91.121.7:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://sfprpc2fws6ltnq4hyr7lvpul3nank5layd7q7tyc5h4gy4h77gtabad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node1.xmr-tw.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://49.12.239.171:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.degga.net:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://96.43.139.226:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://149.248.14.121:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://103.247.108.150:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrnode.asdf.software:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2631918,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://139.162.72.128:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://kowalski.fiatfaucet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.majesticbank.is:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://o4xqziocikfgjvm7d562vt7ysk24uhh2ekewun6v7v2zf27dmyuap6ad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://conk.xmr.coercive.net:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://185.34.238.77:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://76.113.154.181:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://188.34.179.199:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://38.105.209.54:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://157.90.234.17:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xmrrpcmyrz3imrldcwiqt4vm5asq2vefgzybamxdigx37p3ctfcjnsad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632396,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://47.218.218.3:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://73.142.122.206:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://zeg6qmcg33uatnvr3ywrekfw57ap5466zxngxtcq2ga4brbsavgevvyd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.supportxmr.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.nolog.network:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://2xeijqbtonmcwxdrgs4zhkxwvvrcxiutoy4cddbioyd2blwpxzgu64qd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node.agates.io:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.imonero.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.hopto.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-25T14:55:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.moneromerch.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://sf.xmr.support:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://94.180.184.141:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-26T19:22:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 3,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.litepay.ch:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node2.sethforprivacy.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://92.63.192.58:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node3.koag.pl:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.rurl.eu:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://ode6i5zdrm4xjqeubacrwmgnihzpfsfvpdf4kvcphhnrqkmrhq5idxyd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node2.koag.pl:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://node.monerod.org",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://node.bakosi.org",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://vispeak.ddns.net:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://mum3zg2hp5wx6qv4dnv2ax76wgwuw4wipdt6krzd76b65pbklxftvgqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://moneronode1.relaycrun.ch:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xrft3jrcdrfwvry4aocxcswvwturaqxelesmtdk34j4646tajmc6rxyd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://nw4tvhyl7wqnefr7v2uk32h6babgua3dkqauqdfmmwtpse26jch2naad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.fail:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://88.198.199.23:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://37.77.225.35:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://161.97.143.31:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.cryptocano.de:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xmrnodfez4ryr4khacshh4uet2u7rjvnqkuv6j474wasjbvx2pespnad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://libertas.hopto.org:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://pztuze6t5vpj7pzawezgx2vca6hycth5bbxdrr4bangoqucqw7m4hnyd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632399,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://synergyanesthesia.synology.me:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrnode.fun:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://monero.2255.me",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-26T17:51:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 3,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-de-2.boldsuck.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://152.228.213.187:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://monero.kevinthomas.dev:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrnode.yming.xyz:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://hantaan.fullm00n.de:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://moneroxmrxw44lku6qniyarpwgznpcwml4drq7vb24ppatlcg4kmxpqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.c3pool.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.supportxmr.ir:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://xmr.moneromerch.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632407,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://majesticrepik35vnngouksfl7jiwf6sj7s2doj3bvdffq27tgqoeayd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrnode.facspro.net:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://electroncash.dk:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://dewitte.fiatfaucet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.lukas.services:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://alaesuembj3jpdphth5vkcx7d4bjjfe3ppwo7zslpzdwp7qfsxbcduid.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.scotty86.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://dvirnr6squ4k5inagl6cmo4oikclm4fotmsicquefqutpyzzbumet3yd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://monerobpsls5krmdra2rousd7qgze6v5dyylqkdzruejcbgddjxum6yd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xniay6pqr6zdx4o5xldash3emtuvyw7u4vdsylpru4jm5udfp5kgkzid.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632398,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.sethforprivacy.com:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://hashvaultsvg2rinvxz7kos77hdfm6zrd5yco3tx2yh2linsmusfwyad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://wormhole.guru:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://204.27.62.98:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node.buchner.xyz:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-node-usa-east.cakewallet.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://168.119.12.182:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://176.57.150.20:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-25T01:14:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://45.62.207.10:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://nodes.hashvault.pro:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://soadmygluejhce4jw45lzf6uzgsj2icrvirrbohyzig3vp3brczmt5yd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-25T05:28:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://46.32.46.171:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.node.itzmx.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://melo7jwjspngus3xhbt5kxeqc4njhokyvh55jfmehplglgmb7a6rb6yd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://global.xmrcannon.net:443",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T08:00:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node1.koag.pl:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://pqarsrruvvjepbq2lykkdy4lxasmsgejoa63h6mggm2jautrubyupcid.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T15:51:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://161.35.59.213:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://pinodexmr.hopto.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://moneronode.ddns.net:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://mxcd4577fldb3ppzy7obmmhnu3tf57gbcbd4qhwr2kxyjj2qi3dnbfqd.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632395,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmrnode.goodbits.dk:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://104.246.224.112:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.support:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.hew.cloud:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://kowalskiiixfgrrzea6sctaols7zdco2w6qrpjfm5einstnbys5wc4ad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://161.35.118.255:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://edugkuyyvllejizaqr74zj237ct5mj4rrfrnmqn6wcrkge2z6tt3ypad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://nodex.monerujo.io:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632400,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://ie5zso6gsvpxuqlr5cajyfwd4rbowdyux5ida4ke55kx56lmkc2cucid.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.devseed.de:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://144.126.135.222:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://78.47.80.55:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632394,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://om2vhctun62vu5ghw4z5hhby4oh22hj6hosqvgatyhvjsxwodfvk47id.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.majesticbank.su:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr.k3r.fi:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://209.97.185.45:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://node.icefiles.nz:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://poysibicsj73uhw7sjrv3fyopoyulrns4nlr5amyqdtafkqzlocd4qad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://k6jq22taun2yeenrm3omybyi4uiqc7ksyphzlu5xb2fnuwncxj2fnkad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://89.58.15.66:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-24T19:09:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://142.132.164.97:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://community.organic-meatballs.duckdns.org:443",
+    "health": true,
+    "isWebCompatible": true,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T08:08:00.000Z",
+    "lastHeight": 2632408,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://193.148.16.211:18600",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://xtz75dgymdxsm4aam2du5rllkll2dis2imzz7srwev2sl4qm3ijucqqd.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632406,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "https://node.xmr-alias.de:443",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://xmr-in-berlin.boldsuck.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://qstotuswqshpfq3tk5ue6ngbx6rge3macsfa7qyt5j4caopixxhckpad.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632404,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 4,
+      "unhealthy": 2
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://nodes.cryptoben.com:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-25T17:56:00.000Z",
+    "lastHeight": 2632409,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://49.12.221.73:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://wwcsd33eo5gysrzzdu547p3atudruzevh7rbxxo7tras4iz4pm626did.onion:18089",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 5,
+      "unhealthy": 1
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://68.183.233.78:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": true,
+    "url": "http://prdgwbrhxrqvzowotw2r7ylw7liqld4hszawnbc2slm3i5fsyr7pp7ad.onion:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632402,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  },
+  {
+    "isTor": false,
+    "url": "http://node.monerooutreach.org:18081",
+    "health": true,
+    "isWebCompatible": false,
+    "network": "mainnet",
+    "dateAdded": "2022-05-23T07:53:00.000Z",
+    "lastHeight": 2632401,
+    "lastChecked": "2 hours ago",
+    "history": {
+      "healthy": 6,
+      "unhealthy": 0
+    }
+  }
+]
