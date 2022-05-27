@@ -70,7 +70,7 @@ const writeToFile = (fileName, data) => {
 const run = async () => {
   const data = await fetch();
   const parsedData = parseTable(data);
-  const simpleData = parsedData.map(p => p.url).join(',\r\n');
+  const simpleData = parsedData.map(p => p.url).join(',\n');
   writeToFile('monero.json', JSON.stringify(parsedData, null, 2));
   writeToFile('monero.txt', simpleData);
 };
